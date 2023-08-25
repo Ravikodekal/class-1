@@ -836,3 +836,115 @@ cd
 sudo user add ravi
 sudo useradd ravi
 sudo su ravi
+clear
+git commit -m "addedfile1.txt"
+git push
+
+git push class1
+ls -la
+cd class1
+ls -la
+git push
+git status
+git push class1
+    git push --set-upstream class1 master
+ll
+mkdir sss1
+git init
+cd .git
+ll
+cd ..
+cd sss1
+touch file1.txt
+git status
+git add file1.txt
+git status
+git commit -m "added file1.txt" 
+git status
+cd sss1
+git status
+git commit -m "added file1.txt"
+git add file1.txt
+git commit -m "added file.txt"
+cd
+git init
+cd sss1
+ll
+git status
+git add file1.txt
+git commit -m "added new file1.txt"
+git commit -m " added file1.txt"
+git status
+ll
+git push --set-upstream sss1 master
+git push https://github.com/Ravikodekal/sss.git
+git push --set-upstream https://github.com/Ravikodekal/sss.git master
+clear
+git config --global user.name "ravikodekal"
+ git config --global user.email "rvkode@gmail.com"
+git log
+vi file1.txt
+git status
+hi > file2.txt
+echo hi > file2.txt
+ll
+git status
+rm  -rf file2.txt
+ll
+git add file1.txt
+ll
+git status
+git commit -m " username amd email"
+git log
+git push https://github.com/Ravikodekal/sss.git
+ll
+echo" this is to check push with token" >> file1.txt
+echo " this is to check push with token" >> file1.txt
+cat file1.txt
+git status
+git add .
+git commit -m "avoid using token"
+git push https://github.com/Ravikodekal/sss.git
+ git push https://ravikodekal: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@github.com/Ravikodekal/sss.git
+git remote add origin  https://github.com/Ravikodekal/sss.git
+cd sss1
+echo "this is to check origin command" >> file1.txt
+git remote add origin  https://github.com/Ravikodekal/sss.git
+git remote add origin  https://github.com/Ravikodekal/sss.gitcd
+cd
+echo "this is to check origin command" >> file1.txt
+git add .
+git commit -m "to check allorigin"
+git push origin master
+git remote add origin  https://github.com/Ravikodekal/sss.gitcd
+git clone origin master
+git pull origin master
+ll
+git clone https://github.com/Ravikodekal/sss.git
+ll
+ls -la
+ll
+scripts
+cd scripts
+ls
+vi warnmail2.sh
+vi delete4.sh
+rm delete4.sh warnmail.sh 
+vi backup7n.sh
+vi backup7.sh
+rm  backup7.sh
+ls
+vi deletef1.sh
+vi deletef2.sh
+vi deletef1.sh
+vi revorder
+cd scripts
+ls
+vi revorder
+vi deletef1.sh
+vi warnmail2.sh
+vi backupnew.sh
+cd scripts
+ls
+clear
+ls

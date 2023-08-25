@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1692876524,,"q!"
 :wq!
 |2,0,1692859023,,"wq!"
-:q!
-|2,0,1692764010,,"q!"
 :q
 |2,0,1692763977,,"q"
 :wq
@@ -38,230 +38,319 @@
 |3,1,36,0,1,0,1692196375," "
 
 # File marks:
-'0  2  29  ~/file1.txt
-|4,48,2,29,1692859023,"~/file1.txt"
-'1  1  0  ~/scripts/revstring.sh
-|4,49,1,0,1692782503,"~/scripts/revstring.sh"
-'2  16  44  ~/scripts/warnmail2.sh
-|4,50,16,44,1692781604,"~/scripts/warnmail2.sh"
-'3  9  59  ~/scripts/warnmail2.sh
-|4,51,9,59,1692781406,"~/scripts/warnmail2.sh"
-'4  11  59  ~/scripts/warnmail2.sh
-|4,52,11,59,1692781406,"~/scripts/warnmail2.sh"
-'5  9  59  ~/scripts/warnmail2.sh
-|4,53,9,59,1692768520,"~/scripts/warnmail2.sh"
-'6  11  59  ~/scripts/warnmail2.sh
-|4,54,11,59,1692768520,"~/scripts/warnmail2.sh"
-'7  1  0  ~/scripts/warnmail1.sh
-|4,55,1,0,1692768406,"~/scripts/warnmail1.sh"
-'8  11  71  ~/scripts/warnmail1.sh
-|4,56,11,71,1692768175,"~/scripts/warnmail1.sh"
-'9  11  71  ~/scripts/warnmail1.sh
-|4,57,11,71,1692768175,"~/scripts/warnmail1.sh"
+'0  23  4  ~/scripts/backupnew.sh
+|4,48,23,4,1692876524,"~/scripts/backupnew.sh"
+'1  20  0  ~/scripts/warnmail2.sh
+|4,49,20,0,1692876492,"~/scripts/warnmail2.sh"
+'2  1  0  ~/scripts/deletef1.sh
+|4,50,1,0,1692876269,"~/scripts/deletef1.sh"
+'3  1  0  ~/scripts/revorder
+|4,51,1,0,1692876211,"~/scripts/revorder"
+'4  1  0  ~/scripts/revorder
+|4,52,1,0,1692876128,"~/scripts/revorder"
+'5  1  0  ~/scripts/deletef1.sh
+|4,53,1,0,1692875933,"~/scripts/deletef1.sh"
+'6  1  0  ~/scripts/deletef2.sh
+|4,54,1,0,1692875919,"~/scripts/deletef2.sh"
+'7  1  0  ~/scripts/deletef1.sh
+|4,55,1,0,1692875835,"~/scripts/deletef1.sh"
+'8  1  0  ~/scripts/deletef1.sh
+|4,56,1,0,1692875835,"~/scripts/deletef1.sh"
+'9  7  0  ~/scripts/backup7.sh
+|4,57,7,0,1692875784,"~/scripts/backup7.sh"
 
 # Jumplist (newest first):
--'  2  29  ~/file1.txt
-|4,39,2,29,1692859023,"~/file1.txt"
--'  1  0  ~/file1.txt
-|4,39,1,0,1692858956,"~/file1.txt"
--'  1  0  ~/scripts/revstring.sh
-|4,39,1,0,1692782503,"~/scripts/revstring.sh"
--'  1  0  ~/scripts/revstring.sh
-|4,39,1,0,1692782503,"~/scripts/revstring.sh"
--'  16  44  ~/scripts/warnmail2.sh
-|4,39,16,44,1692781604,"~/scripts/warnmail2.sh"
--'  16  44  ~/scripts/warnmail2.sh
-|4,39,16,44,1692781604,"~/scripts/warnmail2.sh"
--'  16  44  ~/scripts/warnmail2.sh
-|4,39,16,44,1692781604,"~/scripts/warnmail2.sh"
--'  16  44  ~/scripts/warnmail2.sh
-|4,39,16,44,1692781604,"~/scripts/warnmail2.sh"
--'  9  59  ~/scripts/warnmail2.sh
-|4,39,9,59,1692781424,"~/scripts/warnmail2.sh"
--'  9  59  ~/scripts/warnmail2.sh
-|4,39,9,59,1692781424,"~/scripts/warnmail2.sh"
--'  9  59  ~/scripts/warnmail2.sh
-|4,39,9,59,1692781424,"~/scripts/warnmail2.sh"
--'  9  59  ~/scripts/warnmail2.sh
-|4,39,9,59,1692781424,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692781406,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692781406,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692781406,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692781406,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692768520,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692768520,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692768520,"~/scripts/warnmail2.sh"
--'  11  59  ~/scripts/warnmail2.sh
-|4,39,11,59,1692768520,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail2.sh
-|4,39,1,0,1692768419,"~/scripts/warnmail2.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  1  0  ~/scripts/warnmail1.sh
-|4,39,1,0,1692768406,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768185,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768175,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768175,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768175,"~/scripts/warnmail1.sh"
--'  11  71  ~/scripts/warnmail1.sh
-|4,39,11,71,1692768175,"~/scripts/warnmail1.sh"
+-'  23  4  ~/scripts/backupnew.sh
+|4,39,23,4,1692876524,"~/scripts/backupnew.sh"
+-'  20  0  ~/scripts/warnmail2.sh
+|4,39,20,0,1692876492,"~/scripts/warnmail2.sh"
+-'  20  0  ~/scripts/warnmail2.sh
+|4,39,20,0,1692876492,"~/scripts/warnmail2.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692876269,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692876269,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692876269,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692876269,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876211,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/revorder
+|4,39,1,0,1692876128,"~/scripts/revorder"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef1.sh
+|4,39,1,0,1692875933,"~/scripts/deletef1.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
+-'  1  0  ~/scripts/deletef2.sh
+|4,39,1,0,1692875919,"~/scripts/deletef2.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/scripts/backupnew.sh
+	*	1692876515	0
+	"	23	4
+	^	23	5
+	.	23	5
+	+	60	2
+	+	33	36
+	+	34	47
+	+	44	43
+	+	47	56
+	+	55	83
+	+	56	0
+	+	55	79
+	+	30	2
+	+	3	36
+	+	4	47
+	+	11	0
+	+	13	4
+	+	16	4
+	+	23	5
+
+> ~/scripts/warnmail2.sh
+	*	1692876484	0
+	"	20	0
+	^	19	0
+	.	18	2
+	+	22	2
+	+	9	59
+	+	3	18
+	+	4	19
+	+	6	0
+	+	12	22
+	+	18	2
+
+> ~/scripts/deletef1.sh
+	*	1692876264	0
+	"	1	0
+
+> ~/scripts/revorder
+	*	1692876208	0
+	"	1	0
+
+> ~/scripts/deletef2.sh
+	*	1692875915	0
+	"	1	0
+
+> ~/scripts/backup7.sh
+	*	1692875779	0
+	"	7	0
+	^	7	0
+	.	6	36
+	+	6	36
+
+> ~/scripts/backup7n.sh
+	*	1692875689	0
+	"	12	0
+	^	12	0
+	.	13	0
+	+	15	39
+	+	4	36
+	+	3	36
+	+	8	30
+	+	8	0
+	+	6	0
+	+	10	0
+	+	13	0
+
+> ~/scripts/delete4.sh
+	*	1692875622	0
+	"	2	0
+	^	6	0
+	.	2	0
+	+	1	701
+	+	1	43
+	+	4	211
+	+	4	41
+	+	4	101
+	+	4	164
+	+	4	240
+	+	4	485
+	+	4	531
+	+	4	464
+	+	4	164
+	+	4	42
+	+	4	464
+	+	4	531
+	+	4	0
+	+	2	0
 
 > ~/file1.txt
 	*	1692859015	0
@@ -273,18 +362,6 @@
 > ~/scripts/revstring.sh
 	*	1692782497	0
 	"	1	0
-
-> ~/scripts/warnmail2.sh
-	*	1692781598	0
-	"	16	44
-	^	16	45
-	.	12	22
-	+	19	2
-	+	9	59
-	+	3	18
-	+	4	19
-	+	6	0
-	+	12	22
 
 > ~/scripts/warnmail1.sh
 	*	1692768398	0
@@ -334,51 +411,9 @@
 	+	10	15
 	+	4	19
 
-> ~/scripts/backupnew.sh
-	*	1692764240	0
-	"	23	4
-	^	23	5
-	.	23	5
-	+	60	2
-	+	33	36
-	+	34	47
-	+	44	43
-	+	47	56
-	+	55	83
-	+	56	0
-	+	55	79
-	+	30	2
-	+	3	36
-	+	4	47
-	+	11	0
-	+	13	4
-	+	16	4
-	+	23	5
-
-> ~/scripts/backup7n.sh
-	*	1692763585	0
-	"	12	0
-	^	12	0
-	.	13	0
-	+	15	39
-	+	4	36
-	+	3	36
-	+	8	30
-	+	8	0
-	+	6	0
-	+	10	0
-	+	13	0
-
 > ~/backup7n.sh
 	*	1692762442	0
 	"	1	0
-
-> ~/scripts/backup7.sh
-	*	1692762206	0
-	"	7	0
-	^	7	0
-	.	6	36
-	+	6	36
 
 > ~/scripts/detetef1.sh
 	*	1692760706	0
@@ -409,28 +444,6 @@
 	+	4	66
 	+	3	25
 	+	5	5
-
-> ~/scripts/delete4.sh
-	*	1692756657	0
-	"	2	0
-	^	6	0
-	.	2	0
-	+	1	701
-	+	1	43
-	+	4	211
-	+	4	41
-	+	4	101
-	+	4	164
-	+	4	240
-	+	4	485
-	+	4	531
-	+	4	464
-	+	4	164
-	+	4	42
-	+	4	464
-	+	4	531
-	+	4	0
-	+	2	0
 
 > ~/mail.sh
 	*	1692684659	0
@@ -464,26 +477,3 @@
 	+	27	36
 	+	26	62
 	+	27	53
-
-> ~/scripts/sshdconfig.sh
-	*	1692677466	0
-	"	3	27
-	^	3	28
-	.	19	28
-	+	19	32
-	+	16	24
-	+	19	28
-
-> ~/scripts/revorder.sh
-	*	1692632980	0
-	"	13	0
-	^	13	0
-	.	12	4
-	+	12	4
-
-> ~/scripts/pattern10.sh
-	*	1692632774	0
-	"	15	0
-	^	15	0
-	.	14	4
-	+	14	4
